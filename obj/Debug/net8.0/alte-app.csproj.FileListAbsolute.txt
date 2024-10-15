@@ -262,3 +262,4 @@
 /Users/timibolaji/Projects/alte-app/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
 /Users/timibolaji/Projects/alte-app/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
 /Users/timibolaji/Projects/alte-app/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/timibolaji/Projects/alte-app/obj/Debug/net8.0/alte-app.sourcelink.json
