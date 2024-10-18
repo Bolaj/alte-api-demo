@@ -12,6 +12,7 @@ namespace alte_app.Data
 
         public DbSet<Employee> Employees { get; set; }
         public DbSet<EditProfile> EditProfiles { get; set; }
+        public DbSet<ProjectCard> Projects { get; set; }
     }
 }
 
